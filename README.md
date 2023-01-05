@@ -11,7 +11,7 @@ Modifying the starter code to build the back end for an e-commerce site by confi
 - [Technology](#Technology)
 
 ## Demo
-Video also provided in [Links](#Links)
+Video also provided in Github Repo (Assets folder) and Live Demo [Links](#Links)
 
 ## Links
 Github: https://github.com/louyoon89/The-E-Commerce-Retail-Store-Back-End-  
