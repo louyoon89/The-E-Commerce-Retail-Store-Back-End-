@@ -10,12 +10,12 @@ Modifying the starter code to build the back end for an e-commerce site by confi
 - [Usage](#Usage)
 - [Technology](#Technology)
 
-## Links
-Github:
-Live Demo:
-
 ## Demo
 Video also provided in [Links](#Links)
+
+## Links
+Github: https://github.com/louyoon89/The-E-Commerce-Retail-Store-Back-End-
+Live Demo: https://drive.google.com/file/d/1kSpabRM5zLLvRnnQr9KmYp8bFGW_Y23F/view?usp=sharing
 
 ## Installation
 Run the following command line to install.
